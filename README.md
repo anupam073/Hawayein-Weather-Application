@@ -1,5 +1,7 @@
 # Hawayein-Weather-Application
 
+![Hawayein Banner](public/Corporate.png)
+
 ## Probably the best, free and open source weather-app out there! :)
 
 
